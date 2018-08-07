@@ -1,0 +1,91 @@
+.login-form{
+ border: 1px solid #d4d4d4;
+  border-radius: 2px;
+  margin: 10px auto 30px;
+  max-width: 40%;
+  padding: 10px 70px;
+  line-height: 12px;
+}
+
+.login-form-header
+{
+text-align: center;
+line-height:12px;
+margin-bottom: 20px;
+}
+
+
+.login-button  {
+  font-size: 14px;
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  padding: 0;
+}
+
+.carr-logo
+{
+    height:80px;
+    width:200px;
+}
+
+.nav-search
+{
+    display: inline-block;
+    margin-left: 670px;
+    vertical-align: middle;
+}
+.login-form-footer a
+{
+padding-left:20px;
+}
+
+.product {
+  background: #fff;
+  text-align: center;
+  height: 380px;
+}
+.product-container {
+  border: 1px solid #e6e6e6;
+  padding: 20px 10px 10px 10px;
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  margin-top: 10px;
+  display:inline-block;
+  margin-right:50px;
+}
+.product-container:hover {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.product .name {
+  font-weight: bold;
+  text-align: center;
+}
+
+.product .price {
+  text-align: center;
+  font-weight: bold;
+}
+
+.product-logo
+{
+   height:90px;
+    width:180px; 
+}
+
+.product-list
+{
+  margin: 10px auto 30px;
+  max-width: 70%;
+}
+
+.err{
+    margin-top: 20px;
+}
